@@ -1,0 +1,25 @@
+{
+  "name": "hotel_management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "download": "^8.0.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "git": "^0.1.5",
+    "nodemon": "^2.0.13",
+    "pdf-parse": "^1.1.1",
+    "pdf2json": "^2.0.1",
+    "pdfkit": "^0.13.0",
+    "pdfreader": "^2.0.0"
+  }
+}
